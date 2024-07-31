@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 export function Carousel(prop) {
     const images = prop.images;
@@ -20,7 +20,13 @@ export function Carousel(prop) {
     const goToSlide = (index) => {
       setCurrentIndex(index);
     };
-  
+    useEffect(() => {
+      const intervalId = setInterval(() => {
+        setCurrentIndex(prevIndex => (prevIndex + 1) % images.length);
+      }, 2000); 
+      return () => clearInterval(intervalId); 
+    }, [images.length]);
+    console.log(currentIndex);
     return (
       <div className="max-w-full h-full w-full py-2 px-4 relative group">
         <div

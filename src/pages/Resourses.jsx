@@ -20,18 +20,18 @@ export function Resources() {
             Revision), Indian Roads Congress.
           </li>
           <li>MoRD Specifications for Low Volume Roads</li>
-          <li>AASHTO Guide for Design of Pavement Structures, AASHTO, 1993</li>
+          {/* <li>AASHTO Guide for Design of Pavement Structures, AASHTO, 1993</li> */}
         </ol>
       </div>
 
       <div className="mx-auto flex justify-evenly">
         <div className="w-[40vw] mt-3 flex flex-col text-center">
             <p className="text-[16px] md:text-2xl xl:text-4xl font-bold md:pb-3 xl:pb-10 mx-auto">Web Development Team</p>
-            <p className="md:text-lg xl:text-2xl text-sm">Kartikay Saxena, Devansh Rai, Vinay Khedkar</p>
+            <p className="md:text-lg xl:text-2xl text-sm">Kartikay Saxena, Alekh Srivastava, Ayush Raj, Devansh Rai, Vinay Khedkar</p>
         </div>
         <div className="w-[40vw] mt-3 flex flex-col text-center">
             <p className="text-[16px] md:text-2xl xl:text-4xl font-bold md:pb-3 xl:pb-10 mx-auto">Organizing Volunteers</p>
-            <p className="md:text-lg xl:text-2xl text-sm">Ajit Kumar, Deepansh Yadav, Koushal Kumar, Rajkamal, Ashish Kumar, Ashutosh Raj</p>
+            <p className="md:text-lg xl:text-2xl text-sm">Ajit Kumar, Hitesh Kumar, Deepansh Yadav, Koushal Kumar, Rajkamal, Ashish Kumar, Ashutosh Raj</p>
         </div>
       </div>
     </>
