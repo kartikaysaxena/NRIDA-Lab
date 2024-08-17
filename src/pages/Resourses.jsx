@@ -27,7 +27,7 @@ export function Resources() {
         </ol>
       </div>
 
-      <div className="mx-auto flex justify-evenly">
+      <div className="mx-auto mb-5 flex justify-evenly">
         <div className="w-[40vw] mt-3 flex flex-col text-center">
             <p className="text-[16px] md:text-2xl xl:text-4xl font-bold md:pb-3 xl:pb-10 mx-auto">Web Development Team</p>
             <p className="md:text-lg xl:text-2xl text-sm">Kartikay Saxena, Alekh Srivastava, Ayush Raj, Devansh Rai, Vinay Khedkar</p>
