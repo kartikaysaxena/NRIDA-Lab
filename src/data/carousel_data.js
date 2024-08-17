@@ -34,8 +34,8 @@ const Right_carousel_images = [
       Image : Assist_profCEE
     },
     {
-        Name: "Dr. Ramakrishna Bag",
-        profile: "https://www.iitp.ac.in/people-10/cee-faculty?view=article&id=361&catid=2",
+        Name: "Dr. Sunny Deol Guzzarlapudi",
+        profile: "https://nitrr.ac.in/viewdetails.php?q=ce.sdeol",
         Image : Faculty
     },
     {
@@ -43,16 +43,8 @@ const Right_carousel_images = [
         profile: "https://www.koushikroy.com/",
         Image : Faculty_2
     },
-    {
-        Name: "Dr. Anilkumar Bachu",
-        profile: "https://www.iitp.ac.in/~anilkumar/",
-        Image : Faculty_3
-    },
-    {
-        Name: "Dr. Syed K. K. Hussaini",
-        profile: "https://www.iitp.ac.in/people-10/cee-faculty?view=article&id=279&catid=2",
-        Image : Faculty_4
-    },
+    
+   
   ];
 
   const carousel = {Left_carousel_images, Right_carousel_images}

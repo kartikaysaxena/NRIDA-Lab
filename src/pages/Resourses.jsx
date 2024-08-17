@@ -7,17 +7,20 @@ export function Resources() {
         </div>
         <ol className="flex flex-col  md:w-[70vw] justify-center list-decimal gap-4 mx-auto text-sm md:text-lg xl:text-2xl">
           <li>
-            IRC:SP:72 - 2015, Guidelines for the Design of Flexible Pavements
-            for Low Volume Rural Roads
+          IRC 115 – Guidelines for Structural Evaluation and Strengthening of Flexible Road Pavements Using Falling Weight Deflectometer (FWD) Technique
           </li>
           <li>
-            IRC:SP:62 Guidelines for the Design and Construction of Cement
-            Concrete Pavement for Rural Roads was published by Indian Roads
-            Congress(IRC)
+          IRC 117– Guidelines for the Structural Evaluation of Rigid Pavement by Falling Weight Deflectometer.
+
           </li>
           <li>
-            IRC:37-2018 Guidelines for the Design of Flexible Pavements (Second
-            Revision), Indian Roads Congress.
+          IRC 117– Guidelines for the Structural Evaluation of Rigid Pavement by Falling Weight Deflectometer.
+
+          </li>
+          <li>
+          {/* IRC 117– Guidelines for the Structural Evaluation of Rigid Pavement by Falling Weight Deflectometer. */}
+          IRC 82 – Code of Practice for Maintenance of Bituminous Road Surfaces.
+
           </li>
           <li>MoRD Specifications for Low Volume Roads</li>
           {/* <li>AASHTO Guide for Design of Pavement Structures, AASHTO, 1993</li> */}

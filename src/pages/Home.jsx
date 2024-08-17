@@ -17,7 +17,7 @@ export function Home() {
         <>
         <div className="flex justify-center items-center text-xl w-4/5 mx-auto mb-5">
             <p className="text-center font-semibold text-2xl">5-Days Workshop on “Laboratory Testing for Pavement Design Inputs and Quality Control”
-5th to 9th  August 2024, Funded by NRIDA Ministry of Rural Development
+19th to 23rd August 2024, Funded by NRIDA Ministry of Rural Development
 
             </p>
         </div>
